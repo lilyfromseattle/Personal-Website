@@ -1,0 +1,25 @@
+body {
+  background-color: white; 
+}
+h1 {
+  color: crimson;
+  font-family: 'Montserrat';
+  text-shadow: 2px 2px 2px deepskyblue;
+  font-size: 2.25em;
+  margin-left: 50px;
+}
+
+p {
+  color: deepskyblue;
+  font-family: 'Montserrat';
+  font-size: 1.25em;  
+  margin-left: 50px;
+}
+
+#game-input {
+	margin-left: 50px;
+}
+
+img {
+	margin-left: 50px
+}
